@@ -1,5 +1,9 @@
 package EatADuck;
 
-public class GrilledDuck {
+import interfaces.IFlightBehaviour;
+import interfaces.IQuackBehaviour;
+
+public class GrilledDuck implements EdibleDuck{
+
 
 }

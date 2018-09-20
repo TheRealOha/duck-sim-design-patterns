@@ -1,5 +1,5 @@
 package EatADuck;
 
-public class FriedDuck {
+public class FriedDuck implements EdibleDuck{
 
 }

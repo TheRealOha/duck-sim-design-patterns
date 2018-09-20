@@ -1,5 +1,6 @@
 package EatADuck;
 
-public interface EatADuckSauce {
+public interface Onions {
+	
 	public double price();
 }
